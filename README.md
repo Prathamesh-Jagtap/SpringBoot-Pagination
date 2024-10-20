@@ -40,5 +40,12 @@ mvn clean install
 mvn spring-boot:run
 ```
 
+# Test API Endpoints
+
+```bash
+GET http://localhost:8080/v1?page=0&size=5
+```
+
+
 
 
